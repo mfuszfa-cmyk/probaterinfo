@@ -1,2 +1,2 @@
 # probaterinfo
-térinformatikai alkalmazások című alkalmazások próbája 2025
+térinformatikai alkalmazások című alkalmazások próbája 2025/26-os
